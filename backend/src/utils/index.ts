@@ -10,3 +10,4 @@ export * from './response';
 export * from './validation';
 export * from './serviceResult';
 export * from './serviceError';
+export * from './auth';

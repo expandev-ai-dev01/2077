@@ -1,2 +1,1 @@
-// Domain modules export
-export {};
+export * as auth from './auth/_module';
